@@ -23,7 +23,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-## <h3><b>:computer: Portfolio</b></h3>
+## Portfolio
 
 <a href="https://lienero.github.io/" target="_blank" rel="noreferrer noopener">
 <ul>
@@ -36,7 +36,7 @@
 </ul>
 </a>
 
-## 
+## Github Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lienero)](https://github.com/anuraghazra/github-readme-stats)
 <!--
